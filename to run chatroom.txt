@@ -1,0 +1,10 @@
+To run chatroom app:
+
+1. download chatroom.tar.gz and unzip
+2. switch to termial on linux
+3. cd chatroom/
+4. npm init -y
+5. node server.js
+6. on your browser type "localhost:5000/"
+7. use multiple tabs to register multiple users
+8. start chatting
