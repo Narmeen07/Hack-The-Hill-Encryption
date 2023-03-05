@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "child-process": "^1.0.2",
+    "node-forge": "^1.3.1"
+  }
+}
